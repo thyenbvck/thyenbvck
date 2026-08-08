@@ -2,9 +2,8 @@
 
 *Hoàng Thiện Bách*
 
-Final-year Software Engineering student at **HCMUT** and a **Frontend Developer**
-with ~1 year of professional React + TypeScript experience. I like owning a feature
-end to end — from the Figma frame to the API that feeds it.
+I graduated in major Software Engineering at **HCMUT** and a **Fullstack Developer**
+with ~1 year of professional React + TypeScript + Node.js experience.
 
 Right now I'm building a full-stack K-Beauty e-commerce platform solo on
 **Next.js + NestJS + PostgreSQL**, which is where most of my recent commits go.
@@ -47,7 +46,7 @@ Right now I'm building a full-stack K-Beauty e-commerce platform solo on
 
 ## Featured Projects
 
-### 🛍️ KORA — Full-stack K-Beauty E-commerce Platform · *private*
+### 🛍️ Candy — Full-stack K-Beauty E-commerce Platform · *private*
 `Next.js 14` `TypeScript` `NestJS` `Prisma` `PostgreSQL` `Redis` `Socket.IO` `Docker`
 
 A complete online store built solo: customer storefront and admin panel, not a demo.
@@ -69,7 +68,7 @@ splitting to cut the initial bundle, Atomic Design component library, Keycloak O
 
 **[→ Live demo](https://mytms.duckdns.org)**
 
-### 🪪 NFC Identity & Attendance System — AutomationLand
+### 🪪 NFC Identity & Attendance System — AutomationLand Company
 `React` `TypeScript` `Tailwind CSS` `Shadcn/UI`
 
 Team project for the real estate sector: NFC card management, authentication, and attendance
