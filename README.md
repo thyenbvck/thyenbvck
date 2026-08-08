@@ -53,11 +53,9 @@ A complete online store built solo: customer storefront and admin panel, not a d
 The repository is private because it runs a real shop, but I'm glad to walk through
 the architecture and code in an interview.
 
-- Catalog, search, product variants, cart, and checkout with KRW→VND rate + shipping fee
+- Catalog, search, product variants, cart, and checkout + shipping fee
 - JWT + refresh tokens, Google OAuth2, email verification, Argon2 hashing, role-based access
 - PayOS QR bank transfer with webhook confirmation, Socket.IO live chat, notification bell
-- A description importer that crawls a source product page, normalises it into typed content
-  blocks, mirrors images onto our own storage, and lets the admin pick blocks before saving
 - 104 Jest unit tests + Supertest e2e running against real PostgreSQL and Redis, Swagger docs, CI
   
  **[→ Production](https://candykr.id.vn/)**
