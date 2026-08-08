@@ -8,7 +8,7 @@ with ~1 year of professional React + TypeScript + Node.js experience.
 Right now I'm building a full-stack K-Beauty e-commerce platform solo on
 **Next.js + NestJS + PostgreSQL**, which is where most of my recent commits go.
 
-- 🔭 Building **KORA** — storefront, admin panel, payments, live chat *(private repo)*
+- 🔭 Building **CandyKR** — storefront, admin panel, payments, live chat *(private repo)*
 - 🌱 Going deeper on **NestJS**, PostgreSQL query performance, and testing (Jest + Supertest)
 - 💼 Open to **Frontend / Full-stack** roles in Ho Chi Minh City
 - 📫 Reach me at **bachhoang20041110@gmail.com**
@@ -46,7 +46,7 @@ Right now I'm building a full-stack K-Beauty e-commerce platform solo on
 
 ## Featured Projects
 
-### 🛍️ Candy — Full-stack K-Beauty E-commerce Platform · *private*
+### 🛍️ CandyKR — Full-stack K-Beauty E-commerce Platform · *private*
 `Next.js 14` `TypeScript` `NestJS` `Prisma` `PostgreSQL` `Redis` `Socket.IO` `Docker`
 
 A complete online store built solo: customer storefront and admin panel, not a demo.
