@@ -59,6 +59,7 @@ the architecture and code in an interview.
 - A description importer that crawls a source product page, normalises it into typed content
   blocks, mirrors images onto our own storage, and lets the admin pick blocks before saving
 - 104 Jest unit tests + Supertest e2e running against real PostgreSQL and Redis, Swagger docs, CI
+  
  **[→ Production](https://candykr.id.vn/)**
 
 ### 📋 Task Management — AI-supported Task System for Teams
