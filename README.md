@@ -1,39 +1,83 @@
-<h1 align="center">Hi 👋, I'm Hoàng Thiện Bách</h1>
-<h3 align="center">A passionate Fullstack Developer from Vietnam 🇻🇳</h3>
+# Hi, I'm Bach Hoang 👋
 
-- 🎓 I’m currently studying at **Ho Chi Minh City University of Technology (HCMUT)**  
-- 🌱 I’m currently learning **Next.js, GraphQL, and Docker**  
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/thyenbvck)**  
-- 📫 How to reach me: **bachhoang20041110@gmail.com**  
-- ⚡ Fun fact: *I love solving algorithm problems and drinking coffee while coding ☕*
+*Hoàng Thiện Bách*
+
+Final-year Software Engineering student at **HCMUT** and a **Frontend Developer**
+with ~1 year of professional React + TypeScript experience. I like owning a feature
+end to end — from the Figma frame to the API that feeds it.
+
+Right now I'm building a full-stack K-Beauty e-commerce platform solo on
+**Next.js + NestJS + PostgreSQL**, which is where most of my recent commits go.
+
+- 🔭 Building **KORA** — storefront, admin panel, payments, live chat *(private repo)*
+- 🌱 Going deeper on **NestJS**, PostgreSQL query performance, and testing (Jest + Supertest)
+- 💼 Open to **Frontend / Full-stack** roles in Ho Chi Minh City
+- 📫 Reach me at **bachhoang20041110@gmail.com**
+
 ---
-🛠️ Languages and Tools:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
-</p>
-📫 Connect with me:
 
-<p>
-  <a href="https://www.linkedin.com/in/b%C3%A1ch-ho%C3%A0ng-369a7627a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:bachhoang20041110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.facebook.com/hoang.bach.1011">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+## Tech Stack
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🛍️ KORA — Full-stack K-Beauty E-commerce Platform · *private*
+`Next.js 14` `TypeScript` `NestJS` `Prisma` `PostgreSQL` `Redis` `Socket.IO` `Docker`
+
+A complete online store built solo: customer storefront and admin panel, not a demo.
+The repository is private because it runs a real shop, but I'm glad to walk through
+the architecture and code in an interview.
+
+- Catalog, search, product variants, cart, and checkout with KRW→VND rate + shipping fee
+- JWT + refresh tokens, Google OAuth2, email verification, Argon2 hashing, role-based access
+- PayOS QR bank transfer with webhook confirmation, Socket.IO live chat, notification bell
+- A description importer that crawls a source product page, normalises it into typed content
+  blocks, mirrors images onto our own storage, and lets the admin pick blocks before saving
+- 104 Jest unit tests + Supertest e2e running against real PostgreSQL and Redis, Swagger docs, CI
+
+### 📋 Task Management — AI-supported Task System for Teams
+`React` `TypeScript` `Spring Boot` `PostgreSQL` `Keycloak` `Kubernetes` `Oracle Cloud`
+
+Graduation project. Redux Toolkit + RTK Query for state and API caching, route-level code
+splitting to cut the initial bundle, Atomic Design component library, Keycloak OAuth2/OIDC.
+
+**[→ Live demo](https://mytms.duckdns.org)**
+
+### 🪪 NFC Identity & Attendance System — AutomationLand
+`React` `TypeScript` `Tailwind CSS` `Shadcn/UI`
+
+Team project for the real estate sector: NFC card management, authentication, and attendance
+tracking. Built the responsive UI from Figma and integrated the REST APIs.
+
+---
+
+## Let's connect
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bachhoang20041110@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A1ch-ho%C3%A0ng-369a7627a/)
